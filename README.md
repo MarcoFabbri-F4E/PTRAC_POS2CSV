@@ -1,3 +1,9 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Radiation-Transport/PTRAC_POS2CSV)
+![GitHub issues](https://img.shields.io/github/issues/Radiation-Transport/PTRAC_POS2CSV)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Radiation-Transport/PTRAC_POS2CSV)
+![GitHub top language](https://img.shields.io/github/languages/top/Radiation-Transport/PTRAC_POS2CSV)
+![](https://img.shields.io/badge/license-EU%20PL-blue)
+
 # PTRAC_POS2CSV
 These instructions should be followed to plot the SDEF source point created by MCNP and exported by means of the PTRACT fuction (based on MCNP5.1.6 release).
 This routine only converts the PTRAC file into a csv file which can be later loaded in Paraview.
